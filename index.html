@@ -4,7 +4,11 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>UROS DE RIVAS - Revisión Temporada 26/27</title>
+
 <link rel="stylesheet" href="style.css">
+
+<script src="https://cdn.sheetjs.com/xlsx-0.20.2/package/dist/xlsx.full.min.js"></script>
+
 </head>
 
 <body>
@@ -18,11 +22,13 @@
 </header>
 
 <section class="panel">
+
     <input id="nombre" placeholder="Nombre del revisor">
 
     <input id="buscar" placeholder="Buscar jugador o equipo...">
 
     <div class="stats">
+
         <div class="stat">
             <span id="equiposTotal">0</span>
             <small>Equipos</small>
@@ -37,14 +43,24 @@
             <span id="revisados">0</span>
             <small>Revisados</small>
         </div>
+
     </div>
+
 </section>
 
 <div id="equipos"></div>
 
-<button id="enviar">
-    Guardar revisión
-</button>
+<div class="botones">
+
+    <button id="excel">
+        Descargar Excel
+    </button>
+
+    <button id="limpiar">
+        Nueva revisión
+    </button>
+
+</div>
 
 <script src="script.js"></script>
 
