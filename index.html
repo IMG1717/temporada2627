@@ -3,15 +3,50 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>UROS DE RIVAS - Revisión</title>
+<title>UROS DE RIVAS - Revisión Temporada 26/27</title>
 <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-<header><img src="assets/logo.jpg" class="logo"><h1>UROS DE RIVAS</h1></header>
-<input id="nombre" placeholder="Nombre del entrenador">
-<input id="buscar" placeholder="Buscar jugador...">
+
+<header class="header">
+    <img src="assets/logo.jpg" class="logo" alt="Uros de Rivas">
+    <div>
+        <h1>Revisión Temporada 2026/27</h1>
+        <p>Comprobación de jugadores y dorsales</p>
+    </div>
+</header>
+
+<section class="panel">
+    <input id="nombre" placeholder="Nombre del revisor">
+
+    <input id="buscar" placeholder="Buscar jugador o equipo...">
+
+    <div class="stats">
+        <div class="stat">
+            <span id="equiposTotal">0</span>
+            <small>Equipos</small>
+        </div>
+
+        <div class="stat">
+            <span id="jugadoresTotal">0</span>
+            <small>Jugadores</small>
+        </div>
+
+        <div class="stat">
+            <span id="revisados">0</span>
+            <small>Revisados</small>
+        </div>
+    </div>
+</section>
+
 <div id="equipos"></div>
-<button>Enviar revisión</button>
+
+<button id="enviar">
+    Guardar revisión
+</button>
+
 <script src="script.js"></script>
+
 </body>
 </html>
