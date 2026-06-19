@@ -1,46 +1,58 @@
+const STORAGE_KEY = "revisionTemporada2627";
+
+let totalJugadores = 0;
+
 function guardarEstado() {
-  const datos = [];
 
-  document.querySelectorAll(".jugador").forEach((jugador, i) => {
+    const datos = [];
 
-    datos.push({
-      correcto: jugador.querySelector(".revision")?.checked || false,
-      error: jugador.querySelector(".error")?.value || ""
-    });
+    document.querySelectorAll(".jugador")
+        .forEach(jugador => {
 
-  });
+            datos.push({
 
-  localStorage.setItem(
-    "revisionTemporada2627",
-    JSON.stringify(datos)
-  );
+                correcto:
+                    jugador.querySelector(".revision")
+                    ?.checked || false,
+
+                error:
+                    jugador.querySelector(".error")
+                    ?.value || ""
+
+            });
+
+        });
+
+    localStorage.setItem(
+        STORAGE_KEY,
+        JSON.stringify(datos)
+    );
 }
 
 function recuperarEstado() {
 
-  const guardado =
-    JSON.parse(
-      localStorage.getItem("revisionTemporada2627")
-    );
+    const guardado =
+        JSON.parse(
+            localStorage.getItem(STORAGE_KEY)
+        );
 
-  if (!guardado) return;
+    if (!guardado) return;
 
-  document.querySelectorAll(".jugador")
-    .forEach((jugador, i) => {
+    document.querySelectorAll(".jugador")
+        .forEach((jugador, i) => {
 
-      if (!guardado[i]) return;
+            if (!guardado[i]) return;
 
-      jugador.querySelector(".revision").checked =
-        guardado[i].correcto;
+            jugador.querySelector(".revision").checked =
+                guardado[i].correcto;
 
-      jugador.querySelector(".error").value =
-        guardado[i].error;
+            jugador.querySelector(".error").value =
+                guardado[i].error;
 
-    });
+        });
 
-  actualizarContador();
+    actualizarContador();
 }
-let totalJugadores = 0;
 
 fetch("data.json")
 .then(r => r.json())
@@ -50,11 +62,12 @@ fetch("data.json")
 
     data.forEach(jugador => {
 
-        if(!equipos[jugador.equipo]){
+        if (!equipos[jugador.equipo]) {
             equipos[jugador.equipo] = [];
         }
 
         equipos[jugador.equipo].push(jugador);
+
     });
 
     document.getElementById("equiposTotal").textContent =
@@ -73,7 +86,7 @@ fetch("data.json")
 
 });
 
-function pintarEquipos(equipos){
+function pintarEquipos(equipos) {
 
     const contenedor =
         document.getElementById("equipos");
@@ -84,44 +97,46 @@ function pintarEquipos(equipos){
         .sort()
         .forEach(equipo => {
 
-        const details =
-            document.createElement("details");
+            const details =
+                document.createElement("details");
 
-        let html =
-            `<summary>${equipo} (${equipos[equipo].length})</summary>`;
+            let html =
+                `<summary>${equipo} (${equipos[equipo].length})</summary>`;
 
-        equipos[equipo].forEach((j,index)=>{
+            equipos[equipo].forEach(j => {
 
-            html += `
-            <div class="jugador">
+                html += `
+                <div class="jugador">
 
-                <div class="jugador-nombre">
-                    ${j.jugador}
-                </div>
+                    <div class="jugador-nombre">
+                        ${j.jugador}
+                    </div>
 
-                <div class="jugador-dorsal">
-                    Dorsal: ${j.dorsal || "-"}
-                </div>
+                    <div class="jugador-dorsal">
+                        Dorsal: ${j.dorsal || "-"}
+                    </div>
 
-                <label class="check">
+                    <label class="check">
+                        <input
+                            type="checkbox"
+                            class="revision">
+                        Datos correctos
+                    </label>
+
                     <input
-                        type="checkbox"
-                        class="revision">
-                    Datos correctos
-                </label>
+                        class="error"
+                        placeholder="Indicar error si existe">
 
-                <input
-                    class="error"
-                    placeholder="Indicar error si existe">
+                </div>
+                `;
 
-            </div>
-            `;
+            });
+
+            details.innerHTML = html;
+
+            contenedor.appendChild(details);
+
         });
-
-        details.innerHTML = html;
-
-        contenedor.appendChild(details);
-    });
 
     actualizarContador();
 
@@ -129,15 +144,33 @@ function pintarEquipos(equipos){
         .querySelectorAll(".revision")
         .forEach(check => {
 
-        check.addEventListener(
-            "change",
-            actualizarContador
-        );
+            check.addEventListener(
+                "change",
+                () => {
 
-    });
+                    actualizarContador();
+                    guardarEstado();
+
+                }
+            );
+
+        });
+
+    document
+        .querySelectorAll(".error")
+        .forEach(campo => {
+
+            campo.addEventListener(
+                "input",
+                guardarEstado
+            );
+
+        });
+
+    recuperarEstado();
 }
 
-function actualizarContador(){
+function actualizarContador() {
 
     const revisados =
         document.querySelectorAll(
@@ -149,7 +182,7 @@ function actualizarContador(){
     ).textContent = revisados;
 }
 
-function filtrar(){
+function filtrar() {
 
     const texto =
         this.value.toLowerCase();
@@ -158,22 +191,98 @@ function filtrar(){
         .querySelectorAll("details")
         .forEach(detalle => {
 
-        detalle.style.display =
-            detalle.innerText
-            .toLowerCase()
-            .includes(texto)
-            ? "block"
-            : "none";
+            detalle.style.display =
+                detalle.innerText
+                .toLowerCase()
+                .includes(texto)
+                ? "block"
+                : "none";
 
-    });
+        });
 }
 
 document
-.getElementById("enviar")
-.addEventListener("click", () => {
+.getElementById("excel")
+.addEventListener(
+    "click",
+    exportarExcel
+);
 
-    alert(
-        "Revisión guardada correctamente."
+function exportarExcel() {
+
+    const filas = [];
+
+    document.querySelectorAll(".jugador")
+        .forEach(jugador => {
+
+            filas.push({
+
+                Jugador:
+                    jugador.querySelector(
+                        ".jugador-nombre"
+                    ).textContent,
+
+                Dorsal:
+                    jugador.querySelector(
+                        ".jugador-dorsal"
+                    ).textContent.replace(
+                        "Dorsal: ",
+                        ""
+                    ),
+
+                Correcto:
+                    jugador.querySelector(
+                        ".revision"
+                    ).checked
+                        ? "SI"
+                        : "NO",
+
+                Error:
+                    jugador.querySelector(
+                        ".error"
+                    ).value
+
+            });
+
+        });
+
+    const ws =
+        XLSX.utils.json_to_sheet(filas);
+
+    const wb =
+        XLSX.utils.book_new();
+
+    XLSX.utils.book_append_sheet(
+        wb,
+        ws,
+        "Revision"
     );
 
-});
+    XLSX.writeFile(
+        wb,
+        "Revision_Temporada_26_27.xlsx"
+    );
+}
+
+document
+.getElementById("limpiar")
+.addEventListener(
+    "click",
+    () => {
+
+        if (
+            confirm(
+                "¿Seguro que quieres borrar la revisión?"
+            )
+        ) {
+
+            localStorage.removeItem(
+                STORAGE_KEY
+            );
+
+            location.reload();
+
+        }
+
+    }
+);
