@@ -1,3 +1,45 @@
+function guardarEstado() {
+  const datos = [];
+
+  document.querySelectorAll(".jugador").forEach((jugador, i) => {
+
+    datos.push({
+      correcto: jugador.querySelector(".revision")?.checked || false,
+      error: jugador.querySelector(".error")?.value || ""
+    });
+
+  });
+
+  localStorage.setItem(
+    "revisionTemporada2627",
+    JSON.stringify(datos)
+  );
+}
+
+function recuperarEstado() {
+
+  const guardado =
+    JSON.parse(
+      localStorage.getItem("revisionTemporada2627")
+    );
+
+  if (!guardado) return;
+
+  document.querySelectorAll(".jugador")
+    .forEach((jugador, i) => {
+
+      if (!guardado[i]) return;
+
+      jugador.querySelector(".revision").checked =
+        guardado[i].correcto;
+
+      jugador.querySelector(".error").value =
+        guardado[i].error;
+
+    });
+
+  actualizarContador();
+}
 let totalJugadores = 0;
 
 fetch("data.json")
