@@ -131,5 +131,27 @@ button:hover{
 
     .stats{
         grid-template-columns:1fr;
+.botones{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:12px;
+    margin-top:20px;
+}
+
+#excel{
+    background:#198754;
+}
+
+#limpiar{
+    background:#dc3545;
+}
+
+@media(max-width:768px){
+
+    .botones{
+        grid-template-columns:1fr;
+    }
+
+}
     }
 }
