@@ -245,7 +245,118 @@ function exportarExcel() {
             });
 
         });
+document
+.getElementById("enviar")
+.addEventListener(
+    "click",
+    enviarRevision
+);
 
+async function enviarRevision() {
+
+    const revisor =
+        document.getElementById("nombre")
+        .value
+        .trim();
+
+    if (!revisor) {
+
+        alert(
+            "Introduce tu nombre antes de enviar."
+        );
+
+        return;
+    }
+
+    const incidencias = [];
+
+    document
+        .querySelectorAll("details")
+        .forEach(detalle => {
+
+            const equipo =
+                detalle.querySelector("summary")
+                .textContent
+                .replace(/\s+\(\d+\)$/,"");
+
+            detalle
+                .querySelectorAll(".jugador")
+                .forEach(jugador => {
+
+                    const error =
+                        jugador.querySelector(".error")
+                        .value
+                        .trim();
+
+                    if (!error) return;
+
+                    incidencias.push({
+
+                        revisor,
+
+                        equipo,
+
+                        jugador:
+                            jugador.querySelector(
+                                ".jugador-nombre"
+                            ).textContent.trim(),
+
+                        dorsal:
+                            jugador.querySelector(
+                                ".jugador-dorsal"
+                            ).textContent
+                            .replace(
+                                "Dorsal: ",
+                                ""
+                            ),
+
+                        error
+
+                    });
+
+                });
+
+        });
+
+    if (incidencias.length === 0) {
+
+        alert(
+            "No hay incidencias para enviar."
+        );
+
+        return;
+    }
+
+    try {
+
+        await fetch(
+            "https://script.google.com/macros/s/AKfycbxSairjucA_bo8cpKRwfO24MuaM1xQxl51t3CXhor58l91DdIU8W5yd2KgQY4r8IcalvA/exec",
+            {
+                method: "POST",
+                headers: {
+                    "Content-Type":
+                        "application/json"
+                },
+                body: JSON.stringify(
+                    incidencias
+                )
+            }
+        );
+
+        alert(
+            "Revisión enviada correctamente."
+        );
+
+    } catch(error) {
+
+        console.error(error);
+
+        alert(
+            "Error enviando la revisión."
+        );
+
+    }
+}
     const ws =
         XLSX.utils.json_to_sheet(filas);
 
