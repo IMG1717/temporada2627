@@ -1193,5 +1193,55 @@
     "equipo": "CADETE D MAS",
     "jugador": "VIERA GARCIA, ALVARO",
     "dorsal": 1
+  },
+  {
+    "equipo": "CADETE D MAS",
+    "jugador": "PEREZ OLIVA, ASIER",
+    "dorsal": 2
+  },
+  {
+    "equipo": "CADETE C MAS",
+    "jugador": "MARIN DIAZ, DANIEL",
+    "dorsal": 11
+  },
+  {
+    "equipo": "JUNIOR E MAS",
+    "jugador": "LOPEZ LORA, MARTIN",
+    "dorsal": 4
+  },
+  {
+    "equipo": "INFANTIL B MAS",
+    "jugador": "ALVAREZ SANZ DE SIRIA, IGNACIO",
+    "dorsal": 8
+  },
+  {
+    "equipo": "PREINFANTIL A MAS",
+    "jugador": "ANTON IGLESIAS, JORGE",
+    "dorsal": 2
+  },
+  {
+    "equipo": "BENJAMÍN 2º B MAS",
+    "jugador": "SERVIAN FERNANDEZ, HECTOR",
+    "dorsal": 4
+  },
+  {
+    "equipo": "INFANTIL B FEM",
+    "jugador": "CIOAREC, LUCIA MARIA",
+    "dorsal": 51
+  },
+  {
+    "equipo": "ALEVÍN 2º A MAS",
+    "jugador": "MATEOS SANCHEZ, ADRIAN",
+    "dorsal": 23
+  },
+  {
+    "equipo": "INFANTIL B FEM",
+    "jugador": "ARTEAGA VALDEZ, ALBA MARIA",
+    "dorsal": 17
+  },
+  {
+    "equipo": "SUB22 B MAS",
+    "jugador": "GIL PORRAS, OSCAR",
+    "dorsal": 6
   }
 ]
