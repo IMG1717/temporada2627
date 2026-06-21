@@ -1278,5 +1278,25 @@
     "equipo": "CADETE A MAS",
     "jugador": "ACEBO SIERRA, EIDUR",
     "dorsal": 99
+  },
+  {
+    "equipo": "PREINFANTIL A MAS",
+    "jugador": "THIBAULT TEIXEIRA, LEO PHILIPPE JOAO",
+    "dorsal": 29
+  },
+  {
+    "equipo": "CADETE C MAS",
+    "jugador": "THIBAULT TEIXEIRA, NOAH PHILIPPE JOAO",
+    "dorsal": 27
+  },
+  {
+    "equipo": "ALEVÍN 2º B FEM",
+    "jugador": "ALBA HIDALGO, ANGELA",
+    "dorsal": 2
+  },
+  {
+    "equipo": "CADETE A MAS",
+    "jugador": "DOMINGUEZ MARTIN, MARIO",
+    "dorsal": 89
   }
 ]
