@@ -1243,5 +1243,40 @@
     "equipo": "SUB22 B MAS",
     "jugador": "GIL PORRAS, OSCAR",
     "dorsal": 6
+  },
+  {
+    "equipo": "INFANTIL B FEM",
+    "jugador": "LOZANO ACOSTA, EVA",
+    "dorsal": 3
+  },
+  {
+    "equipo": "INFANTIL B FEM",
+    "jugador": "MARTINEZ MORALES, SOFIA",
+    "dorsal": 14
+  },
+  {
+    "equipo": "CADETE C MAS",
+    "jugador": "LOPEZ SANCHEZ, ALVARO",
+    "dorsal": 9
+  },
+  {
+    "equipo": "INFANTIL C MAS",
+    "jugador": "LATORRE SERENA, MARCO",
+    "dorsal": 8
+  },
+  {
+    "equipo": "1ª AUT MAS PLATA",
+    "jugador": "ALDASORO PEREZ, ADRIAN",
+    "dorsal": 10
+  },
+  {
+    "equipo": "JUNIOR D MAS",
+    "jugador": "LATORRE SERENA, ALEJANDRO",
+    "dorsal": 12
+  },
+  {
+    "equipo": "CADETE A MAS",
+    "jugador": "ACEBO SIERRA, EIDUR",
+    "dorsal": 99
   }
 ]
