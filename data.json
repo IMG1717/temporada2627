@@ -1523,5 +1523,40 @@
     "equipo": "ALEVÍN 2º B MAS",
     "jugador": "GONZALO CIVIL, OLIVER",
     "dorsal": 24
+  },
+  {
+    "equipo": "BENJAMÍN 1º A MAS",
+    "jugador": "SAAVEDRA LOPEZ, GAEL",
+    "dorsal": ""
+  },
+  {
+    "equipo": "JUNIOR B FEM",
+    "jugador": "DELGADO OLIVER, MARIA",
+    "dorsal": 13
+  },
+  {
+    "equipo": "JUNIOR D MAS",
+    "jugador": "HERRERO ABASCAL, VICTOR",
+    "dorsal": 18
+  },
+  {
+    "equipo": "JUNIOR E MAS",
+    "jugador": "FERNANDEZ ROMERO, DANIEL",
+    "dorsal": 20
+  },
+  {
+    "equipo": "ALEVÍN 1º FEM",
+    "jugador": "GARCIA SANTANA, JULIA",
+    "dorsal": 19
+  },
+  {
+    "equipo": "ALEVÍN 1º B MAS",
+    "jugador": "DOHR SANCHEZ, LUCAS",
+    "dorsal": 15
+  },
+  {
+    "equipo": "CADETE D MAS",
+    "jugador": "BODALO ALONSO, ISAAC",
+    "dorsal": 10
   }
 ]
