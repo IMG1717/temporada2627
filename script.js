@@ -1,7 +1,5 @@
 const STORAGE_KEY = "revisionTemporada2627";
 
-let totalJugadores = 0;
-
 function guardarEstado() {
 
     const datos = [];
@@ -12,12 +10,10 @@ function guardarEstado() {
             datos.push({
 
                 correcto:
-                    jugador.querySelector(".revision")
-                    ?.checked || false,
+                    jugador.querySelector(".revision").checked,
 
                 error:
-                    jugador.querySelector(".error")
-                    ?.value || ""
+                    jugador.querySelector(".error").value
 
             });
 
@@ -76,13 +72,14 @@ fetch("data.json")
     document.getElementById("jugadoresTotal").textContent =
         data.length;
 
-    totalJugadores = data.length;
-
     pintarEquipos(equipos);
 
     document
         .getElementById("buscar")
-        .addEventListener("input", filtrar);
+        .addEventListener(
+            "input",
+            filtrar
+        );
 
 });
 
@@ -138,8 +135,6 @@ function pintarEquipos(equipos) {
 
         });
 
-    actualizarContador();
-
     document
         .querySelectorAll(".revision")
         .forEach(check => {
@@ -185,7 +180,9 @@ function actualizarContador() {
 function filtrar() {
 
     const texto =
-        this.value.toLowerCase();
+        document.getElementById("buscar")
+        .value
+        .toLowerCase();
 
     document
         .querySelectorAll("details")
@@ -201,50 +198,6 @@ function filtrar() {
         });
 }
 
-document
-.getElementById("excel")
-.addEventListener(
-    "click",
-    exportarExcel
-);
-
-function exportarExcel() {
-
-    const filas = [];
-
-    document.querySelectorAll(".jugador")
-        .forEach(jugador => {
-
-            filas.push({
-
-                Jugador:
-                    jugador.querySelector(
-                        ".jugador-nombre"
-                    ).textContent,
-
-                Dorsal:
-                    jugador.querySelector(
-                        ".jugador-dorsal"
-                    ).textContent.replace(
-                        "Dorsal: ",
-                        ""
-                    ),
-
-                Correcto:
-                    jugador.querySelector(
-                        ".revision"
-                    ).checked
-                        ? "SI"
-                        : "NO",
-
-                Error:
-                    jugador.querySelector(
-                        ".error"
-                    ).value
-
-            });
-
-        });
 document
 .getElementById("enviar")
 .addEventListener(
@@ -262,7 +215,7 @@ async function enviarRevision() {
     if (!revisor) {
 
         alert(
-            "Introduce tu nombre antes de enviar."
+            "Introduce tu nombre."
         );
 
         return;
@@ -347,7 +300,7 @@ async function enviarRevision() {
             "Revisión enviada correctamente."
         );
 
-    } catch(error) {
+    } catch (error) {
 
         console.error(error);
 
@@ -356,23 +309,6 @@ async function enviarRevision() {
         );
 
     }
-}
-    const ws =
-        XLSX.utils.json_to_sheet(filas);
-
-    const wb =
-        XLSX.utils.book_new();
-
-    XLSX.utils.book_append_sheet(
-        wb,
-        ws,
-        "Revision"
-    );
-
-    XLSX.writeFile(
-        wb,
-        "Revision_Temporada_26_27.xlsx"
-    );
 }
 
 document
