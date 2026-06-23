@@ -283,18 +283,13 @@ async function enviarRevision() {
     try {
 
         await fetch(
-            "https://script.google.com/macros/s/AKfycbxSairjucA_bo8cpKRwfO24MuaM1xQxl51t3CXhor58l91DdIU8W5yd2KgQY4r8IcalvA/exec",
-            {
-                method: "POST",
-                headers: {
-                    "Content-Type":
-                        "application/json"
-                },
-                body: JSON.stringify(
-                    incidencias
-                )
-            }
-        );
+   "https://script.google.com/macros/s/AKfycbxSairjucA_bo8cpKRwfO24MuaM1xQxl51t3CXhor58l91DdIU8W5yd2KgQY4r8IcalvA/exec",
+   {
+      method: "POST",
+      mode: "no-cors",
+      body: JSON.stringify(incidencias)
+   }
+);
 
         alert(
             "Revisión enviada correctamente."
