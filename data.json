@@ -402,7 +402,7 @@
   {
     "equipo": "INFANTIL B FEM",
     "jugador": "GILABERT BUSQUET, MAEVA",
-    "dorsal": 31
+    "dorsal": 32
   },
   {
     "equipo": "JUNIOR B MAS",
@@ -872,7 +872,7 @@
   {
     "equipo": "ALEVÍN 2º B FEM",
     "jugador": "ARENAS DIAZ, LAURA",
-    "dorsal": 5
+    "dorsal": 9
   },
   {
     "equipo": "INFANTIL B FEM",
@@ -1095,7 +1095,7 @@
     "dorsal": 39
   },
   {
-    "equipo": "CADETE C MAS",
+    "equipo": "CADETE E MAS",
     "jugador": "ARSIĆ MITIĆ, ÐORÐE",
     "dorsal": 15
   },
@@ -1177,7 +1177,7 @@
   {
     "equipo": "CADETE FEM B",
     "jugador": "ALVAREZ GONZALEZ, MARIA",
-    "dorsal": ""
+    "dorsal": 2
   },
   {
     "equipo": "JUNIOR B FEM",
@@ -1558,5 +1558,170 @@
     "equipo": "CADETE D MAS",
     "jugador": "BODALO ALONSO, ISAAC",
     "dorsal": 10
+  },
+  {
+    "equipo": "CADETE FEM C",
+    "jugador": "GUERRERO MARTIN, AINARA",
+    "dorsal": 4
+  },
+  {
+    "equipo": "CADETE FEM C",
+    "jugador": "GUERRERO MARTIN, EDURNE",
+    "dorsal": 3
+  },
+  {
+    "equipo": "CADETE B MAS",
+    "jugador": "CHAMERO FERNANDEZ, HUGO",
+    "dorsal": 8
+  },
+  {
+    "equipo": "PREINFANTIL B MAS",
+    "jugador": "PEREZ GONZALEZ, DANIEL",
+    "dorsal": 23
+  },
+  {
+    "equipo": "ALEVÍN 2º A MAS",
+    "jugador": "AÑEZ GALLO, ALEJANDRO",
+    "dorsal": 99
+  },
+  {
+    "equipo": "2ª AUT FEM ORO",
+    "jugador": "GOZALO ARROYO, MARIA",
+    "dorsal": 9
+  },
+  {
+    "equipo": "BENJAMÍN 1º A MAS",
+    "jugador": "RODRIGUEZ GALAN, DERIK",
+    "dorsal": 7
+  },
+  {
+    "equipo": "2ª AUT FEM ORO",
+    "jugador": "PEREZ PEREZ, JIMENA",
+    "dorsal": 10
+  },
+  {
+    "equipo": "2ª AUT FEM ORO",
+    "jugador": "ARMENTEROS GUARDIA, PATRICIA",
+    "dorsal": 42
+  },
+  {
+    "equipo": "2ª AUT FEM ORO",
+    "jugador": "GONZALEZ MATEOS, CLAUDIA",
+    "dorsal": 19
+  },
+  {
+    "equipo": "2ª AUT FEM ORO",
+    "jugador": "DEL LLANO DE TORO, MARIA",
+    "dorsal": 17
+  },
+  {
+    "equipo": "ALEVÍN 2º B FEM",
+    "jugador": "LOZANO MARTINEZ, RUTH",
+    "dorsal": 5
+  },
+  {
+    "equipo": "JUNIOR A MAS",
+    "jugador": "ABELLA ABELLA, ALEJANDRO",
+    "dorsal": 27
+  },
+  {
+    "equipo": "CADETE D MAS",
+    "jugador": "FERNANDEZ REMARTINEZ, DIEGO",
+    "dorsal": 27
+  },
+  {
+    "equipo": "PREINFANTIL B FEM",
+    "jugador": "DELGADO VALDEAVERO, LARA",
+    "dorsal": 8
+  },
+  {
+    "equipo": "1ª NACIONAL MASC",
+    "jugador": "MATOS TORRES, LUIS GUSTAVO",
+    "dorsal": "NA"
+  },
+  {
+    "equipo": "ALEVÍN 1º B MAS",
+    "jugador": "BUENADICHA GALINDO, ALVARO",
+    "dorsal": 6
+  },
+  {
+    "equipo": "JUNIOR E MAS",
+    "jugador": "PEREZ MANJAVACAS, JORGE",
+    "dorsal": 0
+  },
+  {
+    "equipo": "CADETE E MAS",
+    "jugador": "FERNANDEZ SANCHEZ, BRUNO",
+    "dorsal": 1
+  },
+  {
+    "equipo": "ALEVÍN 2º A MAS",
+    "jugador": "CONDE SERRANO, HUGO",
+    "dorsal": 4
+  },
+  {
+    "equipo": "INFANTIL A FEM",
+    "jugador": "FOGUE CEBRIAN, ARIADNA",
+    "dorsal": 22
+  },
+  {
+    "equipo": "CADETE D MAS",
+    "jugador": "PINEDA REINA, ALONSO",
+    "dorsal": 9
+  },
+  {
+    "equipo": "CADETE F MAS",
+    "jugador": "MILLAN DE LA TORRE, ALONSO",
+    "dorsal": 1
+  },
+  {
+    "equipo": "PREINFANTIL A FEM",
+    "jugador": "VICTORIANO PALOMARES, CARLOTA",
+    "dorsal": 8
+  },
+  {
+    "equipo": "BENJAMÍN 2º A MAS",
+    "jugador": "SANCHEZ DIEZ, MARIO",
+    "dorsal": 8
+  },
+  {
+    "equipo": "BENJAMÍN 1º A MAS",
+    "jugador": "GARCIA MATEOS, BRUNO",
+    "dorsal": ""
+  },
+  {
+    "equipo": "PEQUEBASKET 2021-22-23",
+    "jugador": "PORTELA PLEITE, JAVIER",
+    "dorsal": ""
+  },
+  {
+    "equipo": "BENJAMIN 2019 FEDERADO",
+    "jugador": "PORTELA PLEITE, LUCAS",
+    "dorsal": 25
+  },
+  {
+    "equipo": "ALEVÍN 2º B MAS",
+    "jugador": "BERRUECO PALACIO, IVAN",
+    "dorsal": 34
+  },
+  {
+    "equipo": "ALEVÍN 2º A FEM",
+    "jugador": "ZOFIO GARCIA, EIRE",
+    "dorsal": 30
+  },
+  {
+    "equipo": "CADETE B MAS",
+    "jugador": "FERNANDEZ JORGE, ADRIAN",
+    "dorsal": 29
+  },
+  {
+    "equipo": "ALEVÍN 1º A MAS",
+    "jugador": "BAUTISTA SANCHEZ, VICTOR",
+    "dorsal": 16
+  },
+  {
+    "equipo": "JUNIOR D MAS",
+    "jugador": "PAROLIN ROMERO, PABLO",
+    "dorsal": 25
   }
 ]
