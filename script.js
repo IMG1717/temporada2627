@@ -50,6 +50,11 @@ function pintarEquipos(equipos) {
 
             equipos[equipo].forEach(j => {
 
+                const dorsal =
+                    (j.dorsal === "" || j.dorsal === null || j.dorsal === undefined)
+                    ? "-"
+                    : j.dorsal;
+
                 html += `
                 <div class="jugador">
 
@@ -58,7 +63,7 @@ function pintarEquipos(equipos) {
                     </div>
 
                     <div class="jugador-dorsal">
-                        Dorsal: ${j.dorsal || "-"}
+                        Dorsal: ${dorsal}
                     </div>
 
                 </div>
