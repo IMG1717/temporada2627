@@ -42,7 +42,7 @@
   {
     "equipo": "INFANTIL C MAS",
     "jugador": "SILVA CARVAJAL, HUGO",
-    "dorsal": ""
+    "dorsal": 11
   },
   {
     "equipo": "INFANTIL A FEM",
@@ -170,7 +170,7 @@
     "dorsal": 11
   },
   {
-    "equipo": "INFANTIL B FEM",
+    "equipo": "INFANTIL C FEM",
     "jugador": "RODRIGUEZ JODAR, SARA",
     "dorsal": 14
   },
@@ -185,7 +185,7 @@
     "dorsal": ""
   },
   {
-    "equipo": "INFANTIL B FEM",
+    "equipo": "INFANTIL C FEM",
     "jugador": "RAMOS RAMON, SILVIA",
     "dorsal": 26
   },
@@ -202,7 +202,7 @@
   {
     "equipo": "CADETE F MAS",
     "jugador": "PEREZ SENESTEVA, ADRIAN",
-    "dorsal": 14
+    "dorsal": 21
   },
   {
     "equipo": "CADETE F MAS",
@@ -260,7 +260,7 @@
     "dorsal": 18
   },
   {
-    "equipo": "INFANTIL B FEM",
+    "equipo": "INFANTIL C FEM",
     "jugador": "DIMAS PEREA, LUCIA",
     "dorsal": 31
   },
@@ -270,7 +270,7 @@
     "dorsal": 17
   },
   {
-    "equipo": "INFANTIL B FEM",
+    "equipo": "INFANTIL C FEM",
     "jugador": "ALONSO ESTEVEZ, LUA",
     "dorsal": 9
   },
@@ -282,7 +282,7 @@
   {
     "equipo": "JUNIOR B FEM",
     "jugador": "DIAZ VERGARA, AMAIA",
-    "dorsal": ""
+    "dorsal": 44
   },
   {
     "equipo": "ALEVÍN 1º A MAS",
@@ -320,7 +320,7 @@
     "dorsal": 24
   },
   {
-    "equipo": "INFANTIL B FEM",
+    "equipo": "INFANTIL C FEM",
     "jugador": "ENGELS SANTOS, ALEJANDRA",
     "dorsal": 8
   },
@@ -365,7 +365,7 @@
     "dorsal": 1
   },
   {
-    "equipo": "CADETE FEM A",
+    "equipo": "CADETE FEM B",
     "jugador": "GARCIA BIURRUN, OLIVIA",
     "dorsal": 13
   },
@@ -400,7 +400,7 @@
     "dorsal": 11
   },
   {
-    "equipo": "INFANTIL B FEM",
+    "equipo": "INFANTIL C FEM",
     "jugador": "GILABERT BUSQUET, MAEVA",
     "dorsal": 32
   },
@@ -620,7 +620,7 @@
     "dorsal": 15
   },
   {
-    "equipo": "INFANTIL B FEM",
+    "equipo": "INFANTIL C FEM",
     "jugador": "JORGE JIMENO, ALEJANDRA",
     "dorsal": 16
   },
@@ -685,7 +685,7 @@
     "dorsal": 14
   },
   {
-    "equipo": "INFANTIL B FEM",
+    "equipo": "INFANTIL C FEM",
     "jugador": "GONZALEZ SALA, NOA",
     "dorsal": 13
   },
@@ -695,7 +695,7 @@
     "dorsal": 8
   },
   {
-    "equipo": "BENJAMÍN 1º B MAS",
+    "equipo": "ALEVÍN 1º B MAS",
     "jugador": "MARTINEZ LENCERO, AIMAR",
     "dorsal": 7
   },
@@ -875,14 +875,14 @@
     "dorsal": 9
   },
   {
-    "equipo": "INFANTIL B FEM",
+    "equipo": "INFANTIL C FEM",
     "jugador": "GUTIERREZ TERRIZA, CATALINA",
     "dorsal": 11
   },
   {
     "equipo": "CADETE F MAS",
     "jugador": "SANZ VILORIA, MIGUEL ALEJANDRO",
-    "dorsal": ""
+    "dorsal": 85
   },
   {
     "equipo": "PREBENJAMÍN 2020",
@@ -920,7 +920,7 @@
     "dorsal": 8
   },
   {
-    "equipo": "INFANTIL B FEM",
+    "equipo": "INFANTIL C FEM",
     "jugador": "BARCA VILLACIS, ANGELA",
     "dorsal": 12
   },
@@ -1037,7 +1037,7 @@
   {
     "equipo": "CADETE F MAS",
     "jugador": "MONGGO CASTILLO, VICTOR ALESSANDRO",
-    "dorsal": 24
+    "dorsal": 2
   },
   {
     "equipo": "INFANTIL C MAS",
@@ -1407,7 +1407,7 @@
   {
     "equipo": "INFANTIL C MAS",
     "jugador": "VELAZQUEZ DIAZ, HUGO",
-    "dorsal": ""
+    "dorsal": 30
   },
   {
     "equipo": "INFANTIL C MAS",
@@ -1510,12 +1510,12 @@
     "dorsal": 19
   },
   {
-    "equipo": "CADETE FEM A",
+    "equipo": "CADETE FEM B",
     "jugador": "MARTINEZ ROBLES, SARAH",
-    "dorsal": ""
+    "dorsal": 7
   },
   {
-    "equipo": "ALEVÍN 2º B MAS",
+    "equipo": "ALEVÍN 1º B MAS",
     "jugador": "RIBAS PEREZ, LIAM",
     "dorsal": 15
   },
@@ -1550,7 +1550,7 @@
     "dorsal": 19
   },
   {
-    "equipo": "ALEVÍN 1º B MAS",
+    "equipo": "ALEVÍN 2º B MAS",
     "jugador": "DOHR SANCHEZ, LUCAS",
     "dorsal": 15
   },
@@ -1640,7 +1640,7 @@
     "dorsal": "NA"
   },
   {
-    "equipo": "ALEVÍN 1º B MAS",
+    "equipo": "ALEVÍN 2º B MAS",
     "jugador": "BUENADICHA GALINDO, ALVARO",
     "dorsal": 6
   },
@@ -1675,7 +1675,7 @@
     "dorsal": 1
   },
   {
-    "equipo": "PREINFANTIL A FEM",
+    "equipo": "INFANTIL B FEM",
     "jugador": "VICTORIANO PALOMARES, CARLOTA",
     "dorsal": 8
   },
@@ -1975,7 +1975,7 @@
     "dorsal": 3
   },
   {
-    "equipo": "INFANTIL B FEM",
+    "equipo": "INFANTIL C FEM",
     "jugador": "MIRON GOMEZ, MARIA",
     "dorsal": 28
   },
@@ -2038,5 +2038,35 @@
     "equipo": "CADETE FEM A",
     "jugador": "SAN ANTONIO MANCHON, CLAUDIA",
     "dorsal": 21
+  },
+  {
+    "equipo": "PREINFANTIL B MAS",
+    "jugador": "NOVILLO ROBLES, IVAN",
+    "dorsal": 66
+  },
+  {
+    "equipo": "INFANTIL B FEM",
+    "jugador": "ALMAGRO JUSTO, LIDIA",
+    "dorsal": 77
+  },
+  {
+    "equipo": "INFANTIL A MAS",
+    "jugador": "OLIVAS MARTINEZ, PEDRO",
+    "dorsal": 11
+  },
+  {
+    "equipo": "ALEVÍN 1º A MAS",
+    "jugador": "OLIVAS MARTINEZ, JOSE LUIS",
+    "dorsal": 14
+  },
+  {
+    "equipo": "JUNIOR D MAS",
+    "jugador": "NOVILLO ROBLES, CARLOS",
+    "dorsal": 99
+  },
+  {
+    "equipo": "CADETE FEM B",
+    "jugador": "VALENZUELA PEREZ, PAULA",
+    "dorsal": 23
   }
 ]
