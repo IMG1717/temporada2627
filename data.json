@@ -105,7 +105,7 @@
     "dorsal": 15
   },
   {
-    "equipo": "CADETE FEM A",
+    "equipo": "CADETE FEM D",
     "jugador": "DINIA CHRAIBI, INES",
     "dorsal": 14
   },
@@ -1933,5 +1933,65 @@
     "equipo": "PREINFANTIL B MAS",
     "jugador": "ALBALAEJO NATERA, ALEX",
     "dorsal": 10
+  },
+  {
+    "equipo": "INFANTIL B FEM",
+    "jugador": "RETAMAR CARNICERO, ITZIAR",
+    "dorsal": 2
+  },
+  {
+    "equipo": "2ª AUT MAS PLATA",
+    "jugador": "BRAVO ACEITUNO, ROBERTO",
+    "dorsal": 9
+  },
+  {
+    "equipo": "CADETE B MAS",
+    "jugador": "LOPEZ MEJIA, FRED ALEJANDRO",
+    "dorsal": 6
+  },
+  {
+    "equipo": "INFANTIL A MAS",
+    "jugador": "CID SANCHEZ, DANIEL",
+    "dorsal": 43
+  },
+  {
+    "equipo": "ALEVÍN 1º A MAS",
+    "jugador": "CID SANCHEZ, SERGIO",
+    "dorsal": 33
+  },
+  {
+    "equipo": "ALEVÍN 1º A MAS",
+    "jugador": "CID SANCHEZ, MARIO",
+    "dorsal": 11
+  },
+  {
+    "equipo": "1ª AUT MAS PLATA",
+    "jugador": "SORIA RUIZ, DANIEL",
+    "dorsal": 7
+  },
+  {
+    "equipo": "CADETE FEM B",
+    "jugador": "HERRANZ MARQUEZ, MIREIA",
+    "dorsal": 3
+  },
+  {
+    "equipo": "INFANTIL B FEM",
+    "jugador": "MIRON GOMEZ, MARIA",
+    "dorsal": 28
+  },
+  {
+    "equipo": "BENJAMIN 2019 FEDERADO",
+    "jugador": "FERNANDEZ HERNANDEZ, MARCOS",
+    "dorsal": 19
+  },
+  {
+    "equipo": "PEQUEBASKET 2021-22-23",
+    "jugador": "SALA MARTIN, RODRIGO",
+    "dorsal": ""
+  },
+  {
+    "equipo": "ALEVÍN 2º A FEM",
+    "jugador": "ROBLES FERNANDEZ, LUCIA",
+    "dorsal": 12
   }
 ]
