@@ -1993,5 +1993,35 @@
     "equipo": "ALEVÍN 2º A FEM",
     "jugador": "ROBLES FERNANDEZ, LUCIA",
     "dorsal": 12
+  },
+  {
+    "equipo": "PEQUEBASKET 2021-22-23",
+    "jugador": "MORAN DI MIELE, IAN",
+    "dorsal": ""
+  },
+  {
+    "equipo": "PREBENJAMÍN 2020",
+    "jugador": "LAZO ARCE, ALEX",
+    "dorsal": ""
+  },
+  {
+    "equipo": "BENJAMÍN 1º A MAS",
+    "jugador": "GONZALEZ SANCHEZ, GAEL",
+    "dorsal": 18
+  },
+  {
+    "equipo": "INFANTIL A MAS",
+    "jugador": "DOLZHENKO, DANYSLAV",
+    "dorsal": 9
+  },
+  {
+    "equipo": "ALEVÍN 1º A MAS",
+    "jugador": "NAVARRO MARTIN, MANUEL",
+    "dorsal": 30
+  },
+  {
+    "equipo": "JUNIOR C FEM",
+    "jugador": "MOLINA BENITO, MARINA",
+    "dorsal": 14
   }
 ]
