@@ -245,8 +245,6 @@ async function enviarRevision() {
 
                     incidencias.push({
 
-                        revisor,
-
                         equipo,
 
                         jugador:
@@ -280,33 +278,55 @@ async function enviarRevision() {
         return;
     }
 
-    try {
+    incidencias.forEach(item => {
 
-  await fetch(
-  "https://script.google.com/macros/s/AKfycbxSairjucA_bo8cpKRwfO24MuaM1xQxl51t3CXhor58l91DdIU8W5yd2KgQY4r8IcalvA/exec",
-  {
-      method: "POST",
-      mode: "no-cors",
-      headers: {
-          "Content-Type": "text/plain;charset=utf-8"
-      },
-      body: JSON.stringify(incidencias)
-  }
-);
+        const form =
+            document.createElement("form");
 
-        alert(
-            "Revisión enviada correctamente."
-        );
+        form.method = "POST";
 
-    } catch (error) {
+        form.action =
+            "https://script.google.com/macros/s/AKfycbxSairjucA_bo8cpKRwfO24MuaM1xQxl51t3CXhor58l91DdIU8W5yd2KgQY4r8IcalvA/exec";
 
-        console.error(error);
+        form.target = "oculto";
 
-        alert(
-            "Error enviando la revisión."
-        );
+        const campos = {
 
-    }
+            revisor,
+            equipo: item.equipo,
+            jugador: item.jugador,
+            dorsal: item.dorsal,
+            error: item.error
+
+        };
+
+        Object.keys(campos)
+            .forEach(nombre => {
+
+                const input =
+                    document.createElement("input");
+
+                input.type = "hidden";
+
+                input.name = nombre;
+
+                input.value = campos[nombre];
+
+                form.appendChild(input);
+
+            });
+
+        document.body.appendChild(form);
+
+        form.submit();
+
+        document.body.removeChild(form);
+
+    });
+
+    alert(
+        "Revisión enviada correctamente."
+    );
 }
 
 document
