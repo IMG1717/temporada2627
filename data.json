@@ -2,7 +2,7 @@
   {
     "equipo": "ALEVÍN 1º B MAS",
     "jugador": "GONZALEZ FRIAS, ARITZ",
-    "dorsal": 0
+    "dorsal": 32
   },
   {
     "equipo": "PREINFANTIL B FEM",
@@ -12,7 +12,7 @@
   {
     "equipo": "ALEVÍN 1º B MAS",
     "jugador": "ARIAS SOMOVILLA, FERNANDO",
-    "dorsal": 0
+    "dorsal": 16
   },
   {
     "equipo": "JUNIOR C MAS",
@@ -22,22 +22,22 @@
   {
     "equipo": "INFANTIL C MAS",
     "jugador": "MARTIN RUIZ, LUCAS",
-    "dorsal": 0
+    "dorsal": 23
   },
   {
     "equipo": "PREINFANTIL B FEM",
     "jugador": "ANTON PEREZ, ANE",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "PREINFANTIL B FEM",
     "jugador": "DENCHE VADILLO, ALEJANDRA",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "PREBENJAMIN 2019",
     "jugador": "CARO GUTIERREZ, OLIVIA",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "INFANTIL C MAS",
@@ -182,7 +182,7 @@
   {
     "equipo": "PEQUEBASKET 2021-22-23",
     "jugador": "SANCHEZ GUTIERREZ, NICOLAS",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "INFANTIL C FEM",
@@ -217,12 +217,12 @@
   {
     "equipo": "PREBENJAMIN 2019",
     "jugador": "RODRIGUEZ ALONSO, MAYA",
-    "dorsal": ""
+    "dorsal": 5
   },
   {
     "equipo": "PREBENJAMIN 2019",
     "jugador": "PEREZ RODRIGUEZ, CHRISTOPHER",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "CADETE FEM D",
@@ -337,7 +337,7 @@
   {
     "equipo": "PREBENJAMÍN 2020",
     "jugador": "GIL BENITO, MARIO",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "ALEVÍN 1º A MAS",
@@ -372,7 +372,7 @@
   {
     "equipo": "PEQUEBASKET 2021-22-23",
     "jugador": "PARDO SAINZ, THEO",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "ALEVÍN 2º A MAS",
@@ -412,7 +412,7 @@
   {
     "equipo": "PREBENJAMIN 2019",
     "jugador": "CABEZON FERNANDEZ, ADRIAN",
-    "dorsal": ""
+    "dorsal": 13
   },
   {
     "equipo": "ALEVÍN 1º B MAS",
@@ -590,7 +590,7 @@
     "dorsal": 6
   },
   {
-    "equipo": "BENJAMÍN 2º A MAS",
+    "equipo": "ALEVÍN 1º A MAS",
     "jugador": "BALLESTEROS GALLEGO, DAVID",
     "dorsal": 23
   },
@@ -652,7 +652,7 @@
   {
     "equipo": "PREBENJAMÍN 2020",
     "jugador": "MORENO EYAMA, ASER",
-    "dorsal": ""
+    "dorsal": 9
   },
   {
     "equipo": "ALEVÍN 1º A MAS",
@@ -690,7 +690,7 @@
     "dorsal": 13
   },
   {
-    "equipo": "CADETE E MAS",
+    "equipo": "CADETE C MAS",
     "jugador": "PAZ ZIMMERMANN, ERNESTO",
     "dorsal": 8
   },
@@ -762,12 +762,12 @@
   {
     "equipo": "PREBENJAMIN 2019",
     "jugador": "SANCHEZ GUTIERREZ, SOFIA",
-    "dorsal": ""
+    "dorsal": 15
   },
   {
     "equipo": "PEQUEBASKET 2021-22-23",
     "jugador": "BARROSO AGAPITO, PABLO",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "CADETE B MAS",
@@ -797,7 +797,7 @@
   {
     "equipo": "PREBENJAMÍN 2020",
     "jugador": "AGUADO ORTEGA, EVA",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "1ª AUT MAS PLATA",
@@ -807,12 +807,12 @@
   {
     "equipo": "BENJAMÍN 1º FEM",
     "jugador": "BARROSO AGAPITO, BEATRIZ",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "BENJAMÍN 1º FEM",
     "jugador": "MARTINEZ DUEÑAS, JIMENA",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "ALEVÍN 2º B FEM",
@@ -862,7 +862,7 @@
   {
     "equipo": "JUNIOR B MAS",
     "jugador": "ALONSO CARVALLO, DIEGO",
-    "dorsal": "NA"
+    "dorsal": 1
   },
   {
     "equipo": "JUNIOR B MAS",
@@ -887,7 +887,7 @@
   {
     "equipo": "PREBENJAMÍN 2020",
     "jugador": "MANTERO ZAPATA, MARCO",
-    "dorsal": ""
+    "dorsal": 25
   },
   {
     "equipo": "PREINFANTIL B MAS",
@@ -952,7 +952,7 @@
   {
     "equipo": "ALEVÍN 2º A MAS",
     "jugador": "RANDO VERA, ADOLFO",
-    "dorsal": "NA"
+    "dorsal": ""
   },
   {
     "equipo": "CADETE F MAS",
@@ -1002,7 +1002,7 @@
   {
     "equipo": "PEQUEBASKET 2021-22-23",
     "jugador": "CASADO ZABALA, TEO",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "BENJAMÍN 1º FEM",
@@ -1072,7 +1072,7 @@
   {
     "equipo": "PREBENJAMÍN 2020",
     "jugador": "SANCHEZ DE VEGA, LEO",
-    "dorsal": ""
+    "dorsal": 14
   },
   {
     "equipo": "SUB22 A MAS",
@@ -1300,7 +1300,7 @@
     "dorsal": 89
   },
   {
-    "equipo": "BENJAMÍN 2º A MAS",
+    "equipo": "ALEVÍN 1º A MAS",
     "jugador": "MURO JIMENEZ, ANGEL",
     "dorsal": 32
   },
@@ -1392,15 +1392,15 @@
   {
     "equipo": "CADETE FEM A",
     "jugador": "CHAMORRO BARBERO, MENCIA",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "PEQUEBASKET 2021-22-23",
     "jugador": "GONZALEZ CIVIL, DARIO",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
-    "equipo": "CADETE B MAS",
+    "equipo": "CADETE C MAS",
     "jugador": "BARES RODRIGUEZ, LUCAS",
     "dorsal": 32
   },
@@ -1415,9 +1415,9 @@
     "dorsal": 17
   },
   {
-    "equipo": "CADETE D MAS",
+    "equipo": "CADETE E MAS",
     "jugador": "MAGRO GARRIDO, CARLOS",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "INFANTIL A MAS",
@@ -1527,7 +1527,7 @@
   {
     "equipo": "BENJAMÍN 1º A MAS",
     "jugador": "SAAVEDRA LOPEZ, GAEL",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "JUNIOR B FEM",
@@ -1637,7 +1637,7 @@
   {
     "equipo": "1ª NACIONAL MASC",
     "jugador": "MATOS TORRES, LUIS GUSTAVO",
-    "dorsal": "NA"
+    "dorsal": ""
   },
   {
     "equipo": "ALEVÍN 2º B MAS",
@@ -1687,12 +1687,12 @@
   {
     "equipo": "BENJAMÍN 1º A MAS",
     "jugador": "GARCIA MATEOS, BRUNO",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "PEQUEBASKET 2021-22-23",
     "jugador": "PORTELA PLEITE, JAVIER",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "BENJAMIN 2019 FEDERADO",
@@ -1787,7 +1787,7 @@
   {
     "equipo": "BENJAMÍN 1º A MAS",
     "jugador": "DE AGUEDA CRUZ, ENEKO",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "BENJAMÍN 1º A MAS",
@@ -1837,7 +1837,7 @@
   {
     "equipo": "JUNIOR E MAS",
     "jugador": "MORENO LOPEZ, OSCAR",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "CADETE A MAS",
@@ -1987,7 +1987,7 @@
   {
     "equipo": "PEQUEBASKET 2021-22-23",
     "jugador": "SALA MARTIN, RODRIGO",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "ALEVÍN 2º A FEM",
@@ -1997,12 +1997,12 @@
   {
     "equipo": "PEQUEBASKET 2021-22-23",
     "jugador": "MORAN DI MIELE, IAN",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "PREBENJAMÍN 2020",
     "jugador": "LAZO ARCE, ALEX",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "BENJAMÍN 1º A MAS",
@@ -2027,7 +2027,7 @@
   {
     "equipo": "PEQUEBASKET 2021-22-23",
     "jugador": "GONZALEZ BARAJA, MARCOS",
-    "dorsal": ""
+    "dorsal": 0
   },
   {
     "equipo": "PREINFANTIL B FEM",
@@ -2068,5 +2068,135 @@
     "equipo": "CADETE FEM B",
     "jugador": "VALENZUELA PEREZ, PAULA",
     "dorsal": 23
+  },
+  {
+    "equipo": "1ª NACIONAL MASC",
+    "jugador": "GUTIERREZ BARCELO, MIGUEL",
+    "dorsal": 0
+  },
+  {
+    "equipo": "PREINFANTIL B MAS",
+    "jugador": "GARCIA-ARGUDO JODRA, ASIER",
+    "dorsal": 22
+  },
+  {
+    "equipo": "BENJAMÍN 2º A MAS",
+    "jugador": "GARCIA-ARGUDO JODRA, ADRIAN",
+    "dorsal": 33
+  },
+  {
+    "equipo": "JUNIOR C MAS",
+    "jugador": "HERRAEZ GARCIA, IVAN",
+    "dorsal": 34
+  },
+  {
+    "equipo": "PREINFANTIL B MAS",
+    "jugador": "TANCHEVA GANOVA, MARTIN",
+    "dorsal": 3
+  },
+  {
+    "equipo": "JUNIOR A MAS",
+    "jugador": "BODALO ALONSO, HECTOR",
+    "dorsal": 11
+  },
+  {
+    "equipo": "ALEVÍN 2º A FEM",
+    "jugador": "HERRERA ROIZ, ELENA",
+    "dorsal": 67
+  },
+  {
+    "equipo": "CADETE FEM A",
+    "jugador": "SANTOS GUERRERO, DANIELA",
+    "dorsal": 8
+  },
+  {
+    "equipo": "INFANTIL B FEM",
+    "jugador": "IDEMUDIA, RAVEN OSARUMWENSE",
+    "dorsal": 15
+  },
+  {
+    "equipo": "INFANTIL C FEM",
+    "jugador": "RAMOS RAMON, SILVIA",
+    "dorsal": 26
+  },
+  {
+    "equipo": "ALEVÍN 1º FEM",
+    "jugador": "VICENTE AGUSTIN, SOFIA",
+    "dorsal": 9
+  },
+  {
+    "equipo": "CADETE A MAS",
+    "jugador": "URBANO GALEANO, GABRIEL",
+    "dorsal": 49
+  },
+  {
+    "equipo": "SUB22 A MAS",
+    "jugador": "MARTINEZ MARTINEZ, GONZALO",
+    "dorsal": 0
+  },
+  {
+    "equipo": "CADETE C MAS",
+    "jugador": "TAPIADOR LOPEZ, JUAN",
+    "dorsal": 10
+  },
+  {
+    "equipo": "BENJAMÍN 2º A MAS",
+    "jugador": "LAMBERTI PEREZ, NICOLAS",
+    "dorsal": 1
+  },
+  {
+    "equipo": "BENJAMÍN 2º A MAS",
+    "jugador": "MARQUES MARTIN, ODEI",
+    "dorsal": 30
+  },
+  {
+    "equipo": "INFANTIL B FEM",
+    "jugador": "SANCHEZ SANCHEZ, ADRIANA",
+    "dorsal": 0
+  },
+  {
+    "equipo": "BENJAMÍN 2º B MAS",
+    "jugador": "JIMENEZ MERINO, ERIK",
+    "dorsal": 3
+  },
+  {
+    "equipo": "PEQUEBASKET 2021-22-23",
+    "jugador": "JIMENEZ MERINO, THIAGO",
+    "dorsal": 0
+  },
+  {
+    "equipo": "2ª AUT MAS PLATA",
+    "jugador": "RODRIGUEZ GONZALEZ, ALBERTO",
+    "dorsal": 13
+  },
+  {
+    "equipo": "2ª AUT MAS PLATA",
+    "jugador": "MORENO HUMANES, PABLO",
+    "dorsal": 1
+  },
+  {
+    "equipo": "ALEVÍN 2º B FEM",
+    "jugador": "RODRIGUEZ VILLA, SOFIA VALENTINA",
+    "dorsal": ""
+  },
+  {
+    "equipo": "CADETE C MAS",
+    "jugador": "HERNAN CARRIL, JAVIER",
+    "dorsal": 18
+  },
+  {
+    "equipo": "ALEVÍN 2º B FEM",
+    "jugador": "RODRIGUEZ VILLA, SOFIA VALENTINA",
+    "dorsal": 7
+  },
+  {
+    "equipo": "CADETE C MAS",
+    "jugador": "CABRERIZO RAMOS, DAVID",
+    "dorsal": 24
+  },
+  {
+    "equipo": "2ª AUT FEM ORO",
+    "jugador": "DEL POZO BALSERA, SOFIA",
+    "dorsal": 14
   }
 ]
