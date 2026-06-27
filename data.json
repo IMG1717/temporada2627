@@ -2115,11 +2115,6 @@
     "dorsal": 15
   },
   {
-    "equipo": "INFANTIL C FEM",
-    "jugador": "RAMOS RAMON, SILVIA",
-    "dorsal": 26
-  },
-  {
     "equipo": "ALEVÍN 1º FEM",
     "jugador": "VICENTE AGUSTIN, SOFIA",
     "dorsal": 9
@@ -2138,11 +2133,6 @@
     "equipo": "CADETE C MAS",
     "jugador": "TAPIADOR LOPEZ, JUAN",
     "dorsal": 10
-  },
-  {
-    "equipo": "BENJAMÍN 2º A MAS",
-    "jugador": "LAMBERTI PEREZ, NICOLAS",
-    "dorsal": 1
   },
   {
     "equipo": "BENJAMÍN 2º A MAS",
@@ -2175,11 +2165,6 @@
     "dorsal": 1
   },
   {
-    "equipo": "ALEVÍN 2º B FEM",
-    "jugador": "RODRIGUEZ VILLA, SOFIA VALENTINA",
-    "dorsal": ""
-  },
-  {
     "equipo": "CADETE C MAS",
     "jugador": "HERNAN CARRIL, JAVIER",
     "dorsal": 18
@@ -2198,5 +2183,70 @@
     "equipo": "2ª AUT FEM ORO",
     "jugador": "DEL POZO BALSERA, SOFIA",
     "dorsal": 14
+  },
+  {
+    "equipo": "BENJAMÍN 2º B MAS",
+    "jugador": "VILA CALVO, AARON",
+    "dorsal": 12
+  },
+  {
+    "equipo": "2ª AUT FEM ORO",
+    "jugador": "VADILLO RUIZ, AMAYA",
+    "dorsal": 12
+  },
+  {
+    "equipo": "2ª AUT FEM ORO",
+    "jugador": "JARQUE ROYO, LUCIA",
+    "dorsal": 10
+  },
+  {
+    "equipo": "SUB22 B MAS",
+    "jugador": "RUIZ CEPEDA, IGNACIO",
+    "dorsal": 10
+  },
+  {
+    "equipo": "INFANTIL C FEM",
+    "jugador": "DE LOMA MONEDERO, MONICA",
+    "dorsal": 33
+  },
+  {
+    "equipo": "INFANTIL C FEM",
+    "jugador": "DE LOMA MONEDERO, MARINA",
+    "dorsal": 27
+  },
+  {
+    "equipo": "2ª AUT FEM ORO",
+    "jugador": "GARCIA CABEZAS, CLAUDIA",
+    "dorsal": 1
+  },
+  {
+    "equipo": "BENJAMÍN 2º A MAS",
+    "jugador": "ALVAREZ ALCAZAR, CARLOS",
+    "dorsal": 0
+  },
+  {
+    "equipo": "JUNIOR B FEM",
+    "jugador": "VALENTIN BUELVAS, MARTINA",
+    "dorsal": 11
+  },
+  {
+    "equipo": "JUNIOR A FEM",
+    "jugador": "FLORES MORAGON, DANIELA",
+    "dorsal": 9
+  },
+  {
+    "equipo": "CADETE FEM C",
+    "jugador": "MONTOYA RODRIGUEZ, ALISON",
+    "dorsal": 0
+  },
+  {
+    "equipo": "2ª AUT FEM ORO",
+    "jugador": "DIAZ MALLOL, ANA",
+    "dorsal": 21
+  },
+  {
+    "equipo": "BENJAMÍN 2º A MAS",
+    "jugador": "MENDOZA SOTO, MATEO JOSE",
+    "dorsal": 62
   }
 ]
