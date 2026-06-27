@@ -185,11 +185,6 @@
     "dorsal": 0
   },
   {
-    "equipo": "INFANTIL C FEM",
-    "jugador": "RAMOS RAMON, SILVIA",
-    "dorsal": 26
-  },
-  {
     "equipo": "INFANTIL A FEM",
     "jugador": "BADENAS DIAZ, SENA",
     "dorsal": 34
@@ -345,18 +340,13 @@
     "dorsal": 15
   },
   {
-    "equipo": "BENJAMÍN 2º A MAS",
-    "jugador": "LAMBERTI PEREZ, NICOLAS",
-    "dorsal": 1
-  },
-  {
     "equipo": "INFANTIL B MAS",
     "jugador": "PARDO SAINZ, IZAN",
     "dorsal": 11
   },
   {
     "equipo": "BENJAMÍN 2º B MAS",
-    "jugador": "ANDRES FERNANDEZ, CLAUDIO",
+    "jugador": "ANDRES FERNANDEZ, DANIEL",
     "dorsal": 63
   },
   {
@@ -1390,11 +1380,6 @@
     "dorsal": 19
   },
   {
-    "equipo": "CADETE FEM A",
-    "jugador": "CHAMORRO BARBERO, MENCIA",
-    "dorsal": 0
-  },
-  {
     "equipo": "PEQUEBASKET 2021-22-23",
     "jugador": "GONZALEZ CIVIL, DARIO",
     "dorsal": 0
@@ -2115,6 +2100,11 @@
     "dorsal": 15
   },
   {
+    "equipo": "INFANTIL C FEM",
+    "jugador": "RAMOS RAMON, SILVIA",
+    "dorsal": 26
+  },
+  {
     "equipo": "ALEVÍN 1º FEM",
     "jugador": "VICENTE AGUSTIN, SOFIA",
     "dorsal": 9
@@ -2133,6 +2123,11 @@
     "equipo": "CADETE C MAS",
     "jugador": "TAPIADOR LOPEZ, JUAN",
     "dorsal": 10
+  },
+  {
+    "equipo": "BENJAMÍN 2º A MAS",
+    "jugador": "LAMBERTI PEREZ, NICOLAS",
+    "dorsal": 1
   },
   {
     "equipo": "BENJAMÍN 2º A MAS",
@@ -2230,7 +2225,7 @@
     "dorsal": 11
   },
   {
-    "equipo": "JUNIOR A FEM",
+    "equipo": "JUNIOR B FEM",
     "jugador": "FLORES MORAGON, DANIELA",
     "dorsal": 9
   },
@@ -2248,5 +2243,55 @@
     "equipo": "BENJAMÍN 2º A MAS",
     "jugador": "MENDOZA SOTO, MATEO JOSE",
     "dorsal": 62
+  },
+  {
+    "equipo": "CADETE FEM C",
+    "jugador": "ZAVALETA POMBO, CAROL",
+    "dorsal": 24
+  },
+  {
+    "equipo": "1ª AUT FEM",
+    "jugador": "GRAGERA GARCIA, ANA MARIA",
+    "dorsal": 91
+  },
+  {
+    "equipo": "CADETE FEM A",
+    "jugador": "CHAMORRO BARBERO, MENCIA",
+    "dorsal": 23
+  },
+  {
+    "equipo": "JUNIOR B FEM",
+    "jugador": "CAMACHO JIMENEZ, VALERIA",
+    "dorsal": 12
+  },
+  {
+    "equipo": "INFANTIL B MAS",
+    "jugador": "GONZALEZ PALOMARES, BRUNO",
+    "dorsal": 5
+  },
+  {
+    "equipo": "INFANTIL A MAS",
+    "jugador": "CAMACHO JIMENEZ, ADRIAN",
+    "dorsal": 33
+  },
+  {
+    "equipo": "2ª AUT MAS PLATA",
+    "jugador": "GARCIA DIAZ, ADRIAN",
+    "dorsal": 16
+  },
+  {
+    "equipo": "ALEVÍN 2º B FEM",
+    "jugador": "ALVAREZ DE LA CASA, EIMA",
+    "dorsal": 24
+  },
+  {
+    "equipo": "SUB22 B MAS",
+    "jugador": "SANCHEZ GOMEZ, RUBEN",
+    "dorsal": 24
+  },
+  {
+    "equipo": "SUB22 B MAS",
+    "jugador": "PARELES PEREZ, SAMUEL",
+    "dorsal": 7
   }
 ]
