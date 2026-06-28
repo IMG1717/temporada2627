@@ -2317,7 +2317,7 @@
   {
     "equipo": "JUNIOR E MAS",
     "jugador": "LOPEZ MORENO, MARIO",
-    "dorsal": 12
+    "dorsal": ""
   },
   {
     "equipo": "PREINFANTIL B FEM",
@@ -2393,5 +2393,90 @@
     "equipo": "1ª AUT FEM",
     "jugador": "HIDALGO DIAZ, PAULA",
     "dorsal": 10
+  },
+  {
+    "equipo": "ALEVÍN 2º B MAS",
+    "jugador": "GARCIA ARIAS, JAIRO",
+    "dorsal": 21
+  },
+  {
+    "equipo": "JUNIOR A FEM",
+    "jugador": "ESTEBAN, ANDRES",
+    "dorsal": 77
+  },
+  {
+    "equipo": "PREINFANTIL A MAS",
+    "jugador": "GARCIA FERNANDEZ, JORGE",
+    "dorsal": 12
+  },
+  {
+    "equipo": "PREINFANTIL A MAS",
+    "jugador": "ATIENZAR VICENTE, YOEL",
+    "dorsal": 30
+  },
+  {
+    "equipo": "SUB22 B MAS",
+    "jugador": "RUPEREZ RAMOS, ALEJANDRO",
+    "dorsal": 8
+  },
+  {
+    "equipo": "SUB22 B MAS",
+    "jugador": "RUIZ RUBIO, IVAN",
+    "dorsal": 10
+  },
+  {
+    "equipo": "PREINFANTIL A MAS",
+    "jugador": "DINU, DAVID ANDREI",
+    "dorsal": 8
+  },
+  {
+    "equipo": "ALEVÍN 2º B FEM",
+    "jugador": "DEL BRIO NIETO, ZOE",
+    "dorsal": 23
+  },
+  {
+    "equipo": "PREBENJAMIN 2019",
+    "jugador": "JUAN SERRADILLA, MARTIN",
+    "dorsal": 14
+  },
+  {
+    "equipo": "PREBENJAMIN 2019",
+    "jugador": "MAS MARTIN, OLIVER",
+    "dorsal": 6
+  },
+  {
+    "equipo": "SUB22 B MAS",
+    "jugador": "RUIZ RUBIO, FRANCISCO",
+    "dorsal": 1
+  },
+  {
+    "equipo": "PREINFANTIL B FEM",
+    "jugador": "DEL BRIO NIETO, SERENA",
+    "dorsal": 23
+  },
+  {
+    "equipo": "JUNIOR E MAS",
+    "jugador": "MANZANERO NIEVA, AITHOR",
+    "dorsal": 24
+  },
+  {
+    "equipo": "SUB22 B MAS",
+    "jugador": "DEL BRIO NIETO, ADRIAN",
+    "dorsal": 30
+  },
+  {
+    "equipo": "JUNIOR A FEM",
+    "jugador": "OREIRO BARCELO, SARA",
+    "dorsal": 85
+  },
+  {
+    "equipo": "PREINFANTIL A MAS",
+    "jugador": "VIDAL ROMERO, VICTOR",
+    "dorsal": 17
+  },
+  {
+    "equipo": "PREINFANTIL A MAS",
+    "jugador": "CAMPOAMOR PORTILLO, AITOR",
+    "dorsal": 14
   }
 ]
