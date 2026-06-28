@@ -7,7 +7,7 @@
   {
     "equipo": "PREINFANTIL B FEM",
     "jugador": "SANCHEZ DE VEGA, VERA",
-    "dorsal": 0
+    "dorsal": 9
   },
   {
     "equipo": "ALEVÍN 1º B MAS",
@@ -27,12 +27,12 @@
   {
     "equipo": "PREINFANTIL B FEM",
     "jugador": "ANTON PEREZ, ANE",
-    "dorsal": 0
+    "dorsal": 77
   },
   {
     "equipo": "PREINFANTIL B FEM",
     "jugador": "DENCHE VADILLO, ALEJANDRA",
-    "dorsal": 0
+    "dorsal": 82
   },
   {
     "equipo": "PREBENJAMIN 2019",
@@ -1325,11 +1325,6 @@
     "dorsal": 60
   },
   {
-    "equipo": "PREINFANTIL B FEM",
-    "jugador": "GONZALEZ HUMANES, VALERIA",
-    "dorsal": 18
-  },
-  {
     "equipo": "1ª AUT MAS PLATA",
     "jugador": "RIVERA ARANDA, ALEJANDRO",
     "dorsal": 0
@@ -2293,5 +2288,110 @@
     "equipo": "SUB22 B MAS",
     "jugador": "PARELES PEREZ, SAMUEL",
     "dorsal": 7
+  },
+  {
+    "equipo": "BENJAMÍN 2º FEM",
+    "jugador": "GOMEZ ALCAZAR, TERESA",
+    "dorsal": 18
+  },
+  {
+    "equipo": "PREINFANTIL B FEM",
+    "jugador": "ORTEGA DELGADO, CLAUDIA",
+    "dorsal": 11
+  },
+  {
+    "equipo": "CADETE FEM C",
+    "jugador": "BARBA JOVER, CANDELA",
+    "dorsal": 5
+  },
+  {
+    "equipo": "JUNIOR C FEM",
+    "jugador": "MARTINEZ BARROSO, CELIA",
+    "dorsal": 6
+  },
+  {
+    "equipo": "JUNIOR E MAS",
+    "jugador": "ESTEBAN RODRIGUEZ, MATEO",
+    "dorsal": 8
+  },
+  {
+    "equipo": "JUNIOR E MAS",
+    "jugador": "LOPEZ MORENO, MARIO",
+    "dorsal": 12
+  },
+  {
+    "equipo": "PREINFANTIL B FEM",
+    "jugador": "BARBA JOVER, ALMA",
+    "dorsal": 15
+  },
+  {
+    "equipo": "CADETE FEM C",
+    "jugador": "FABELO DIAZ, MARTA",
+    "dorsal": 7
+  },
+  {
+    "equipo": "PREINFANTIL B FEM",
+    "jugador": "CASTRO QUIROGA, GRETA",
+    "dorsal": 7
+  },
+  {
+    "equipo": "JUNIOR A FEM",
+    "jugador": "JARES DARRIBA, IRIA",
+    "dorsal": 41
+  },
+  {
+    "equipo": "1ª NACIONAL MASC",
+    "jugador": "PARADELA PARIS, SERGIO",
+    "dorsal": 13
+  },
+  {
+    "equipo": "CADETE C MAS",
+    "jugador": "HEREDIA MIYATA, NICOLAS",
+    "dorsal": 3
+  },
+  {
+    "equipo": "CADETE C MAS",
+    "jugador": "CASTRO QUIROGA, MAËL",
+    "dorsal": 77
+  },
+  {
+    "equipo": "CADETE FEM A",
+    "jugador": "RUIZ ADRADOS, AFRICA",
+    "dorsal": 4
+  },
+  {
+    "equipo": "ALEVÍN 1º FEM",
+    "jugador": "QUINTERO GOMEZ, MICAELA",
+    "dorsal": 8
+  },
+  {
+    "equipo": "BENJAMÍN 2º A MAS",
+    "jugador": "ATIENZAR MARTINEZ, SAUL",
+    "dorsal": 25
+  },
+  {
+    "equipo": "JUNIOR D MAS",
+    "jugador": "ORTIZ ROMERA, MARIO",
+    "dorsal": 3
+  },
+  {
+    "equipo": "SUB22 B MAS",
+    "jugador": "MUÑOZ GALLEN, MARIO",
+    "dorsal": 91
+  },
+  {
+    "equipo": "BENJAMÍN 2º A MAS",
+    "jugador": "EXPOSITO MARIN, DARIO",
+    "dorsal": 0
+  },
+  {
+    "equipo": "JUNIOR A FEM",
+    "jugador": "HERRERO BUENO, SARA",
+    "dorsal": 14
+  },
+  {
+    "equipo": "1ª AUT FEM",
+    "jugador": "HIDALGO DIAZ, PAULA",
+    "dorsal": 10
   }
 ]
