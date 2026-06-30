@@ -610,11 +610,6 @@
     "dorsal": 15
   },
   {
-    "equipo": "INFANTIL C FEM",
-    "jugador": "JORGE JIMENO, ALEJANDRA",
-    "dorsal": 16
-  },
-  {
     "equipo": "ALEVÍN 2º A FEM",
     "jugador": "CORDON DE LAS HERAS, PAULA",
     "dorsal": 11
@@ -1537,7 +1532,7 @@
   {
     "equipo": "CADETE D MAS",
     "jugador": "BODALO ALONSO, ISAAC",
-    "dorsal": 10
+    "dorsal": 12
   },
   {
     "equipo": "CADETE FEM C",
@@ -1817,7 +1812,7 @@
   {
     "equipo": "JUNIOR E MAS",
     "jugador": "MORENO LOPEZ, OSCAR",
-    "dorsal": 0
+    "dorsal": 39
   },
   {
     "equipo": "CADETE A MAS",
@@ -2292,7 +2287,7 @@
   {
     "equipo": "BENJAMÍN 2º FEM",
     "jugador": "GOMEZ ALCAZAR, TERESA",
-    "dorsal": 18
+    "dorsal": 8
   },
   {
     "equipo": "PREINFANTIL B FEM",
@@ -2317,7 +2312,7 @@
   {
     "equipo": "JUNIOR E MAS",
     "jugador": "LOPEZ MORENO, MARIO",
-    "dorsal": ""
+    "dorsal": 12
   },
   {
     "equipo": "PREINFANTIL B FEM",
@@ -2352,7 +2347,7 @@
   {
     "equipo": "CADETE C MAS",
     "jugador": "CASTRO QUIROGA, MAËL",
-    "dorsal": 77
+    "dorsal": 7
   },
   {
     "equipo": "CADETE FEM A",
@@ -2527,6 +2522,191 @@
   {
     "equipo": "2ª AUT FEM ORO",
     "jugador": "MUÑOZ RAMOS, SALOME",
-    "dorsal": ""
+    "dorsal": 0
+  },
+  {
+    "equipo": "CADETE C MAS",
+    "jugador": "POLANCO BELTRAN, LOSHUA DYLAN",
+    "dorsal": 5
+  },
+  {
+    "equipo": "INFANTIL C FEM",
+    "jugador": "JORGE JIMENO, ALEJANDRA",
+    "dorsal": 16
+  },
+  {
+    "equipo": "JUNIOR A MAS",
+    "jugador": "VILLENA GARCIA, GAEL",
+    "dorsal": 13
+  },
+  {
+    "equipo": "PREINFANTIL A MAS",
+    "jugador": "TORRES HERNANDEZ, CARLOS",
+    "dorsal": 24
+  },
+  {
+    "equipo": "BENJAMÍN 2º FEM",
+    "jugador": "DOMINGUEZ LORENZO, PAULA",
+    "dorsal": 18
+  },
+  {
+    "equipo": "2ª AUT MAS PLATA",
+    "jugador": "SANCHEZ MARTIN, PABLO",
+    "dorsal": 14
+  },
+  {
+    "equipo": "ALEVÍN 1º B MAS",
+    "jugador": "RABOSO LARA, NACHO",
+    "dorsal": 8
+  },
+  {
+    "equipo": "JUNIOR A MAS",
+    "jugador": "FERNANDEZ SANZ, ADRIAN",
+    "dorsal": 20
+  },
+  {
+    "equipo": "INFANTIL B MAS",
+    "jugador": "RABOSO LARA, NEO",
+    "dorsal": 15
+  },
+  {
+    "equipo": "1ª AUT FEM",
+    "jugador": "PABLO PACHECO, EDURNE",
+    "dorsal": 16
+  },
+  {
+    "equipo": "BENJAMIN 2019 FEDERADO",
+    "jugador": "RODRIGUEZ RAMOS, NICO",
+    "dorsal": 9
+  },
+  {
+    "equipo": "PREINFANTIL A MAS",
+    "jugador": "LAVANDERA REPARAZ, BRUNO",
+    "dorsal": 23
+  },
+  {
+    "equipo": "PREINFANTIL A MAS",
+    "jugador": "ASHA LORENTE, ALBERTO",
+    "dorsal": 16
+  },
+  {
+    "equipo": "BENJAMÍN 2º FEM",
+    "jugador": "HERNANDEZ CUBERO, SANSA",
+    "dorsal": 24
+  },
+  {
+    "equipo": "JUNIOR E MAS",
+    "jugador": "DAHMAN ELLAGHDAS, RAYAN",
+    "dorsal": 0
+  },
+  {
+    "equipo": "JUNIOR C FEM",
+    "jugador": "PEREZ DIAZ, AINARA",
+    "dorsal": 22
+  },
+  {
+    "equipo": "INFANTIL B MAS",
+    "jugador": "DONOSO PIÑA, PABLO",
+    "dorsal": 30
+  },
+  {
+    "equipo": "BENJAMIN 2019 FEDERADO",
+    "jugador": "MARQUEZ LAINEZ, ADRIAN",
+    "dorsal": 22
+  },
+  {
+    "equipo": "BENJAMIN 2019 FEDERADO",
+    "jugador": "DUMITRESCU GARCIA, ALEX",
+    "dorsal": 30
+  },
+  {
+    "equipo": "1ª NACIONAL MASC",
+    "jugador": "VIDAL GARCIA, FERNANDO",
+    "dorsal": 0
+  },
+  {
+    "equipo": "BENJAMÍN 1º A MAS",
+    "jugador": "ROMAN CAMPOS, ALEJANDRO",
+    "dorsal": 13
+  },
+  {
+    "equipo": "BENJAMÍN 2º FEM",
+    "jugador": "CASTILLO TEJEDOR, ANA",
+    "dorsal": 17
+  },
+  {
+    "equipo": "JUNIOR C MAS",
+    "jugador": "CERDAN MAYANS, DAVID",
+    "dorsal": 11
+  },
+  {
+    "equipo": "SUB22 B MAS",
+    "jugador": "CERDAN MAYANS, JORGE",
+    "dorsal": 21
+  },
+  {
+    "equipo": "JUNIOR C MAS",
+    "jugador": "DE MIGUEL ZAMORA, ALEJANDRO",
+    "dorsal": 8
+  },
+  {
+    "equipo": "BENJAMÍN 2º FEM",
+    "jugador": "CARACENA MILLAN, ADRIANA",
+    "dorsal": 22
+  },
+  {
+    "equipo": "JUNIOR D MAS",
+    "jugador": "VELAYOS FONTANA, MARTIN",
+    "dorsal": 0
+  },
+  {
+    "equipo": "PEQUEBASKET 2021-22-23",
+    "jugador": "TUREGANO GUTIERREZ, JOEL",
+    "dorsal": 0
+  },
+  {
+    "equipo": "1ª NACIONAL MASC",
+    "jugador": "MOYA DIAZ, ELIAS",
+    "dorsal": 6
+  },
+  {
+    "equipo": "SUB22 A MAS",
+    "jugador": "ZURITA GARCIA, TOMAS",
+    "dorsal": 9
+  },
+  {
+    "equipo": "INFANTIL B MAS",
+    "jugador": "SANCHEZ QUERO, ALBERTO",
+    "dorsal": 10
+  },
+  {
+    "equipo": "PREINFANTIL B MAS",
+    "jugador": "MAÑA, DEREK",
+    "dorsal": 0
+  },
+  {
+    "equipo": "INFANTIL B MAS",
+    "jugador": "NAVARRETE RODRIGUEZ, GAEL",
+    "dorsal": 9
+  },
+  {
+    "equipo": "JUNIOR C MAS",
+    "jugador": "DAVILA CARROBLES, MARTIN",
+    "dorsal": 8
+  },
+  {
+    "equipo": "INFANTIL B MAS",
+    "jugador": "MORDI GUTIERREZ, DENIS",
+    "dorsal": 2
+  },
+  {
+    "equipo": "CADETE B MAS",
+    "jugador": "MORDI GUTIERREZ, DARYL",
+    "dorsal": 24
+  },
+  {
+    "equipo": "CADETE FEM C",
+    "jugador": "SANCHEZ MARTINEZ, ALBA",
+    "dorsal": 0
   }
 ]
