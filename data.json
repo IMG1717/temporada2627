@@ -340,6 +340,11 @@
     "dorsal": 15
   },
   {
+    "equipo": "BENJAMÍN 2º A MAS",
+    "jugador": "LAMBERTI PEREZ, NICOLAS",
+    "dorsal": 26
+  },
+  {
     "equipo": "INFANTIL B MAS",
     "jugador": "PARDO SAINZ, IZAN",
     "dorsal": 11
@@ -610,6 +615,11 @@
     "dorsal": 15
   },
   {
+    "equipo": "INFANTIL C FEM",
+    "jugador": "JORGE JIMENO, ALEJANDRA",
+    "dorsal": 16
+  },
+  {
     "equipo": "ALEVÍN 2º A FEM",
     "jugador": "CORDON DE LAS HERAS, PAULA",
     "dorsal": 11
@@ -817,7 +827,7 @@
   {
     "equipo": "CADETE B MAS",
     "jugador": "REMACHA DE FRUTOS, GONZALO",
-    "dorsal": 12
+    "dorsal": 9
   },
   {
     "equipo": "PREINFANTIL B MAS",
@@ -1662,7 +1672,7 @@
   {
     "equipo": "BENJAMÍN 1º A MAS",
     "jugador": "GARCIA MATEOS, BRUNO",
-    "dorsal": 0
+    "dorsal": 10
   },
   {
     "equipo": "PEQUEBASKET 2021-22-23",
@@ -1762,7 +1772,7 @@
   {
     "equipo": "BENJAMÍN 1º A MAS",
     "jugador": "DE AGUEDA CRUZ, ENEKO",
-    "dorsal": 0
+    "dorsal": 9
   },
   {
     "equipo": "BENJAMÍN 1º A MAS",
@@ -2116,11 +2126,6 @@
   },
   {
     "equipo": "BENJAMÍN 2º A MAS",
-    "jugador": "LAMBERTI PEREZ, NICOLAS",
-    "dorsal": 1
-  },
-  {
-    "equipo": "BENJAMÍN 2º A MAS",
     "jugador": "MARQUES MARTIN, ODEI",
     "dorsal": 30
   },
@@ -2222,7 +2227,7 @@
   {
     "equipo": "CADETE FEM C",
     "jugador": "MONTOYA RODRIGUEZ, ALISON",
-    "dorsal": 0
+    "dorsal": 9
   },
   {
     "equipo": "2ª AUT FEM ORO",
@@ -2530,11 +2535,6 @@
     "dorsal": 5
   },
   {
-    "equipo": "INFANTIL C FEM",
-    "jugador": "JORGE JIMENO, ALEJANDRA",
-    "dorsal": 16
-  },
-  {
     "equipo": "JUNIOR A MAS",
     "jugador": "VILLENA GARCIA, GAEL",
     "dorsal": 13
@@ -2592,7 +2592,7 @@
   {
     "equipo": "BENJAMÍN 2º FEM",
     "jugador": "HERNANDEZ CUBERO, SANSA",
-    "dorsal": 24
+    "dorsal": 13
   },
   {
     "equipo": "JUNIOR E MAS",
@@ -2680,9 +2680,9 @@
     "dorsal": 10
   },
   {
-    "equipo": "PREINFANTIL B MAS",
+    "equipo": "INFANTIL B MAS",
     "jugador": "MAÑA, DEREK",
-    "dorsal": 0
+    "dorsal": 25
   },
   {
     "equipo": "INFANTIL B MAS",
@@ -2707,6 +2707,66 @@
   {
     "equipo": "CADETE FEM C",
     "jugador": "SANCHEZ MARTINEZ, ALBA",
-    "dorsal": 0
+    "dorsal": 11
+  },
+  {
+    "equipo": "BENJAMÍN 1º A MAS",
+    "jugador": "CID DE RIVERA SANCHEZ, MANUEL",
+    "dorsal": 98
+  },
+  {
+    "equipo": "BENJAMÍN 2º B MAS",
+    "jugador": "BUDRIA FONSECA, TIAGO",
+    "dorsal": 23
+  },
+  {
+    "equipo": "SUB22 A MAS",
+    "jugador": "DE LA FLOR COLLADO, ALVARO",
+    "dorsal": 5
+  },
+  {
+    "equipo": "INFANTIL A MAS",
+    "jugador": "AGUILAR-TABLADA PERDIGUERO, PABLO",
+    "dorsal": 8
+  },
+  {
+    "equipo": "ALEVÍN 2º B MAS",
+    "jugador": "GARCIA ALVAREZ, ALVARO",
+    "dorsal": 7
+  },
+  {
+    "equipo": "JUNIOR D MAS",
+    "jugador": "VILLA LOPEZ, NICOLAS",
+    "dorsal": 80
+  },
+  {
+    "equipo": "SUB22 A MAS",
+    "jugador": "PARODI, ADRIAN",
+    "dorsal": 18
+  },
+  {
+    "equipo": "ALEVÍN 1º FEM",
+    "jugador": "PARRALEJO, NORA",
+    "dorsal": 35
+  },
+  {
+    "equipo": "CADETE D MAS",
+    "jugador": "MOLINA LUNA, DANIEL ALEJANDRO",
+    "dorsal": 83
+  },
+  {
+    "equipo": "BENJAMÍN 2º B MAS",
+    "jugador": "HUERTA COBO, BRUNO",
+    "dorsal": 20
+  },
+  {
+    "equipo": "INFANTIL B MAS",
+    "jugador": "MENDOZA SOTO, MIGUEL ANDRES",
+    "dorsal": 13
+  },
+  {
+    "equipo": "JUNIOR A FEM",
+    "jugador": "CANCIO LOPEZ, PAULA",
+    "dorsal": 3
   }
 ]
